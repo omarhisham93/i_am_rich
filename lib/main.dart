@@ -7,7 +7,7 @@ void main() {
     home: Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.blueGrey[900],
-        title: Center(child: Text('I am rich')),
+        title: Center(child: Text('I Am Rich')),
       ),
       body: Center(
         child: Image(
